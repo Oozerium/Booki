@@ -43,6 +43,9 @@ a:visited{
 a:active{
     color: #0065FC;
 }
+p{
+    color: black;
+}
 /************************************
 *            header + nav           *
 ************************************/
@@ -101,6 +104,9 @@ section p
     margin-left: 20px;
     margin-bottom: 30px;
     font-weight: 500;
+}
+h2, h3{
+    color: black;
 }
 
  /* barre de recherche */

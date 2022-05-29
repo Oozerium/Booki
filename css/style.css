@@ -40,9 +40,7 @@ a{
 a:visited{
     color: black;
 }
-a:active{
-    color: #0065FC;
-}
+
 p{
     color: black;
 }

@@ -1,0 +1,62 @@
+
+
+.hebergements-populaires{
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.Populaires{
+    width: 100%;
+    margin-right: 500px;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.Populaires h2{
+    padding: 40px 16% 30px 25px;
+    
+}
+
+.hotel{
+    margin-left: 25px;
+}
+
+.Hebergements{
+    width: 100%;
+    padding: 0;
+    padding-bottom: 2%;
+    margin: 0;
+}
+
+.grand img, .moyen img, .petit img
+{
+    height:170px;
+}
+
+.activites{
+    margin: 0;
+  
+}
+
+.activites-cards{
+    height: auto;
+    align-content: flex-end;
+    margin-left: 0px;
+    
+}
+
+.activites-cards h2{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.grand, .moyen, .petit {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 25px;
+    height: 250px;
+ }
+
+ footer{
+     padding-left: 20px;
+ }
